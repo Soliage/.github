@@ -1,1 +1,3 @@
-# .github
+# Soliage
+
+Submission to Solana Grizzlython
