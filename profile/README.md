@@ -1,5 +1,7 @@
 # Soliage
 
+This is our submission for the Solana 2023 Grizzlython in the XXXX track.
+
 An MVP of an oracle-based issuer of carbon credits based on AI-assisted detection of foliage in satellite imagery across the Amazon rainforest.
 
 
