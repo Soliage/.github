@@ -1,5 +1,5 @@
 # Arbon
-[twitter.com/arbon_project](Twitter) <><> [t.me/caronfire](Telegram)
+[https://twitter.com/arbon_project](Twitter) <><> [https://t.me/caronfire](Telegram)
 
 This is our submission for the Solana 2023 Grizzlython in the XXXX track.
 
