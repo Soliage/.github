@@ -4,7 +4,9 @@
 This is our submission for the Solana 2023 Grizzlython in the XXXX track.
 
 ## Summary
-The Arbon protocol is an oracle-based issuer of carbon offset tokens (COT) issued on Solana based on AI-assisted detection of carbon sequestration across woodlands. This MVP utilizes satellite imagery from across the Amazon rainforest, minting the carbon sequestration power of this massive forest into an on-chain real-world global asset (RWGA). Arbon encapsulates the entire carbon credit lifecycle from creation to offset and increases efficiency manifold. 
+The Arbon protocol is an oracle-based issuer of carbon offset tokens (COT) issued on Solana based on AI-assisted detection of carbon sequestration across woodlands. This MVP utilizes satellite imagery from across the Amazon rainforest, minting the carbon sequestration power of this massive forest into an on-chain real-world global asset (RWGA). Arbon encapsulates the entire carbon credit lifecycle from creation to offset and increases efficiency manifold.
+
+![Soliage technical diagram](https://user-images.githubusercontent.com/72612765/224573475-3f9af312-0d35-4b78-a0d5-d8f7e3e84798.png)
 
 ## Consumers
 Consumers and polluters can offset their carbon outputs by verifiably burning their COT on-chain. This increases transparency in these traditionally opaque acts. Consumers are overpaying for carbon credits due to lemon problems. The traditional market is fraught with fraud due to its novelty and opacity. Putting everything on Solana in plain view of the public, always auditable, will make for a more trustworthy marketplace where the protection of the planet is where it belongs: front and center.
