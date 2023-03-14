@@ -1,5 +1,5 @@
 # Arbon
-[Video demo](https://vimeo.com/807722539) <><> [Twitter](https://twitter.com/arbon_project) <><> [Telegram](https://t.me/caronfire)
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/1f372be75689d73cae89b6de808149b606b879e1/logos/vimeo.svg" width="20" height="12"> [Video demo](https://vimeo.com/807722539) <><> <img src="https://user-images.githubusercontent.com/72612765/224967477-00dd22e5-7add-4c74-a4fe-7c06101e240a.png" width="16" height="12"> [Twitter](https://twitter.com/arbon_project) <><> <img src="https://raw.githubusercontent.com/gilbarbara/logos/1f372be75689d73cae89b6de808149b606b879e1/logos/telegram.svg" width="12" height="12"> [Telegram](https://t.me/caronfire)
 
 This is our submission for the Solana 2023 Grizzlython in the XXXX track.
 
